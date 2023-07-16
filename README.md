@@ -13,8 +13,8 @@ IT Undergrad at NIT Srinagar 👩‍🎓
 * 🤝  I'm open to collaborating on Frontend projects
 * ⚡  Frontend Development takes more than just writing clean code.
 
-<a href="https://www.github.com/Shreya-trivedi-20" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tusharverma_?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/_tusharverma_" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/tusharv01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tusharv01?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/_tusharverma_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_tusharverma_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
