@@ -1,3 +1,5 @@
+[![An image of @tusharv01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharv01)](https://holopin.io/@tusharv01)
+
 <h1 align='center'>Hi 👋 My name is Tushar Verma</h1>
 <p align='center'>
   <a href='https://www.linkedin.com/in/tusharverma01'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
