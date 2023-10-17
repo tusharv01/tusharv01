@@ -1,5 +1,3 @@
-[![An image of @tusharv01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharv01)](https://holopin.io/@tusharv01)
-
 <h1 align='center'>Hi 👋 My name is Tushar Verma</h1>
 <p align='center'>
   <a href='https://www.linkedin.com/in/tusharverma01'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
@@ -83,5 +81,7 @@
 <p align='center'>
 <p align="left"> <a href="https://www.codepen.io/tushar011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/tusharv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tusharv01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tusharverma01/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_tusharverma_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p></p>
+
+[![An image of @tusharv01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharv01)](https://holopin.io/@tusharv01)
 
 <hr>
