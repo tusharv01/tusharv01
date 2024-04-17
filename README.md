@@ -82,6 +82,7 @@
 <p align="left"> <a href="https://www.codepen.io/tushar011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/tusharv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tusharv01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tusharverma01/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_tusharverma_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p></p>
 
-[![An image of @tusharv01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharv01)](https://holopin.io/@tusharv01)
-
+[![An image of @tusharv01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharv01)](https://holopin.io/@tusharv01) 
+<br>
+<a href="https://wakatime.com/@018ed722-c8cd-43a5-a240-ab46509ab5d6"><img src="https://wakatime.com/badge/user/018ed722-c8cd-43a5-a240-ab46509ab5d6.svg" alt="Total time coded since Apr 13 2024" /></a>
 <hr>
